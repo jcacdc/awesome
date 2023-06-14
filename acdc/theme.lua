@@ -1,7 +1,7 @@
 --[[
 
-     Multicolor Awesome WM theme 2.0
-     github.com/lcpz
+    Theme acdc
+    Jorge Giovannelli
 
 --]]
 
